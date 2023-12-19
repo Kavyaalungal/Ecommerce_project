@@ -1,0 +1,26 @@
+
+
+.navigation-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 10px; 
+    background-color: rgb(159, 161, 161);
+  }
+  
+ 
+  .navigation-container span {
+    margin-left: 10px; 
+  }
+  
+  .navigation-container a {
+    text-decoration: none;
+    color: black; 
+    font-weight: bold; 
+  }
+  
+  
+  .navigation-container a:hover {
+    color: blue; 
+  }
+  
